@@ -1,0 +1,15 @@
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\obj\Debug\net6.0\laba2employee.csproj.AssemblyReference.cache
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\obj\Debug\net6.0\laba2employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\obj\Debug\net6.0\laba2employee.AssemblyInfoInputs.cache
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\obj\Debug\net6.0\laba2employee.AssemblyInfo.cs
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\obj\Debug\net6.0\laba2employee.csproj.CoreCompileInputs.cache
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\bin\Debug\net6.0\laba2employee.exe
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\bin\Debug\net6.0\laba2employee.deps.json
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\bin\Debug\net6.0\laba2employee.runtimeconfig.json
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\bin\Debug\net6.0\laba2employee.dll
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\bin\Debug\net6.0\ref\laba2employee.dll
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\bin\Debug\net6.0\laba2employee.pdb
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\obj\Debug\net6.0\laba2employee.dll
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\obj\Debug\net6.0\ref\laba2employee.dll
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\obj\Debug\net6.0\laba2employee.pdb
+C:\Users\TomerKot\source\repos\laba2employee\laba2employee\obj\Debug\net6.0\laba2employee.genruntimeconfig.cache
